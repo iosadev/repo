@@ -1,4 +1,4 @@
-# iosadev7008 's Cydia repo
+# iosadev's Cydia repo
 Welcome to my Cydia Repo!
 
 Email - iosadev7008@gmail.com
