@@ -1,8 +1,8 @@
 # iosadev's Cydia repo
 Welcome to my Cydia Repo!
 
-Email - iosadev7008@gmail.com
+Email - [](iosadev7008@gmail.com)
 
-Web - https://iosadev.github.io/site
+Web - https://iosadev.github.io/
 
-Twitter - @iosadev
+Twitter - @iosadev_tw
